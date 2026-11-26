@@ -1,0 +1,23 @@
+{
+  "repo": "idevice-manager-professional-ios-tools",
+  "product": "Idevice Manager Pro Ios Tools",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "idevice-manager-pro-ios",
+    "idevice-manager",
+    "idevice-manager-ios",
+    "idevice-manager-pro",
+    "how-to-install-idevice-manager",
+    "how-to-setup-idevice-manager",
+    "desktop-package",
+    "windows-11",
+    "windows-10"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Idevice Manager Pro Ios Tools"
+}
